@@ -1,4 +1,4 @@
-<div align="center"> <img src="banner-aurora-en-v2.svg" alt="Animated banner" width="100%" /> <br /> <img src="https://komarev.com/ghpvc/?username=taf-077&label=VISITS&color=0a1a33&labelColor=2fd8d0&style=for-the-badge" alt="Visits" /> <img src="https://img.shields.io/github/followers/taf-077?label=FOLLOWERS&style=for-the-badge&color=0a1a33&labelColor=8b6cff" alt="Followers" />
+<div align="center"> <img src="banner-aurora-en-v3.svg" alt="Animated banner" width="100%" /> <br /> <img src="https://komarev.com/ghpvc/?username=taf-077&label=VISITS&color=0a1a33&labelColor=2fd8d0&style=for-the-badge" alt="Visits" /> <img src="https://img.shields.io/github/followers/taf-077?label=FOLLOWERS&style=for-the-badge&color=0a1a33&labelColor=8b6cff" alt="Followers" />
 
 <br /><br />
 
